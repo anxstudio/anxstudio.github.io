@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 
 const fakeProjects = [
     {
-      title: 'Intro Logo',
+      title: 'Intro Logo ANX',
       tag: 'Animations',
       status: 'Coming soon',
       desc: 'Animazioni in 3D sulla composizione del nostro logo.',
